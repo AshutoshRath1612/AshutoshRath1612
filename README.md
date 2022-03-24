@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 🔭 I’m currently studying in ITER, Bhubaneswar
 - 🌱 I’m currently learning ReactJs
