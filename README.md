@@ -1,6 +1,6 @@
 
 
-<p><img src="./assets/hello.gif"></p>
+<p align="center"><img src="./assets/hello.gif"></p>
 <h1 align="center"> # Hey, I am Ashutosh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -87,7 +87,7 @@
 <h1 align="center">   Thanks for visiting my profile <h1/>
 <h1 align="center">	 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  See you again:smiling_face_with_three_hearts:</h1>
 
-<p><img src="./assets/bye.gif"></p>
+<p align="center"><img src="./assets/bye.gif"></p>
 
 
 
