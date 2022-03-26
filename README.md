@@ -40,7 +40,16 @@
 
 
 
+## Compititive Programming 
 
+- 5⭐in Java on 
+    <a href="https://www.hackerrank.com/ashutoshrath1612">
+    <img alt="" height="35px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a><br/> 
+- 2⭐(Beginner) on
+   <a href="https://www.codechef.com/users/ashu_rath">
+    <img alt="" height="35px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
+  </a><br/> 
 <!-- <img height="35px" src="https://komarev.com/ghpvc/?username=AshutoshRath1612&label=Profile%20views&color=0e75b6&style=flat" alt="AshutoshRath1612" /> -->
 
 ## Tech Stack
@@ -82,7 +91,18 @@
     <img height="35px" src="https://img.shields.io/badge/NodeJs-a2aa55?style=for-the-badge&logo=node.js&logoColor=white">
   </a><br />
   
-  
+   
+## Tool's
+
+<a><img height="35px" alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+<a><img height="35px" alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> 
   
 <h1 align="center">   Thanks for visiting my profile <h1/>
 <h1 align="center">	 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  See you again:smiling_face_with_three_hearts:</h1>
