@@ -26,17 +26,17 @@
 <br>
 
 <a href="https://github.com/AshutoshRath1612/Ashutosh-Portfolio">
-  <img align="center" style="margin:0.5rem , font-weight:100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AshutoshRath1612&repo=Ashutosh-Portfolio&title_color=070000&text_color=black&icon_color=c9fe01&bg_color=32cdb3" />
+  <img align="center" style="margin:0.5rem , font-weight:100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AshutoshRath1612&repo=Ashutosh-Portfolio&title_color=ffffff&text_color=black&icon_color=c9fe01&bg_color=ffffff00" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshRath1612&show_icons=true&locale=en&layout=compact" alt="AshutoshRath1612" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshutoshRath1612&show_icons=true&locale=en&layout=compact&bg_color=ffffff00" alt="AshutoshRath1612" /></p>
 
 <br /> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshutoshRath1612&show_icons=true&locale=en" alt="AshutoshRath1612" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=AshutoshRath1612&show_icons=true&locale=en&bg_color=ffffff00" alt="AshutoshRath1612" /></p>
 
 
 
