@@ -107,7 +107,7 @@
 <h1 align="center">   Thanks for visiting my profile <h1/>
 <h1 align="center">	 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  See you again:smiling_face_with_three_hearts:</h1>
 
-<p align="center"><img src="./assets/bye.gif"></p>
+<p align="center"><img src="./assets/cute-wave.gif"></p>
 
 
 
