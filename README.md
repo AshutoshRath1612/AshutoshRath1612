@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="./assets/hello.gif"></p>
+<p align="center"><img src="./assets/heyy.gif"></p>
 <h1 align="center"> # Hey, I am Ashutosh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A passionate frontend developer</h3>
 
